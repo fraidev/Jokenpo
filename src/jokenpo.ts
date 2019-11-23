@@ -26,4 +26,4 @@ export class Jokenpo {
     }
 }
 
-type Hand = 'stone' | 'scissors' | 'paper';
+export type Hand = 'stone' | 'scissors' | 'paper';
